@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Top 5 favorite songs</h2>
+
+<table>
+  <tr>
+    <th>Artist</th>
+    <th>Language</th>
+    <th>Song</th>
+  </tr>
+  <tr>
+    <td>Enrique iglesias</td>
+    <td>Spanish</td>
+    <td>El Perdedor</td>
+  </tr>
+  <tr>
+    <td>Don Omar</td>
+    <td>Spanish/Porteguese</td>
+    <td>Danza Kuduro</td>
+  </tr>
+  <tr>
+    <td>Eddie Santiago</td>
+    <td>spanish</td>
+    <td>Lluvia</td>
+  </tr>
+  <tr>
+    <td>Nova</td>
+    <td>English</td>
+    <td>Not Around</td>
+  </tr>
+  <tr>
+    <td>Micheal Jackson</td>
+    <td>English</td>
+    <td>Billie Jean</td>
+  </tr>
+  <tr>
+    <td>Romeo Santos</td>
+    <td>Spanish/English</td>
+    <td>Promise</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
